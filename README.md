@@ -1,6 +1,6 @@
 # Smart-Factory-Data-Acquisition-System（智能工厂数据采集系统）
 
-[![CI](https://github.com/lwj15089590118/Smart-Factory-Data-Acquisition-System/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/lwj15089590118/Smart-Factory-Data-Acquisition-System/actions/workflows/ci.yml)
+[![CI](https://github.com/lian-automation/Smart-Factory-Data-Acquisition-System/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/lian-automation/Smart-Factory-Data-Acquisition-System/actions/workflows/ci.yml)
 ![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 

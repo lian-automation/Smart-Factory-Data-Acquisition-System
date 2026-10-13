@@ -30,6 +30,18 @@ jobs:
       - name: Install host dependencies
         run: pip install -r "Python上位机/requirements.txt" pytest
 
+      - name: Lint (ruff, baseline E4/E7/E9/F)
+
+
+        run: |
+
+
+          pip install ruff
+
+
+          python -m ruff check .
+
+
       - name: Syntax check (compileall)
         run: python -m compileall -q "Python上位机"
 

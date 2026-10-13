@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="900" viewBox="0 0 1100 900">
+<rect width="1100" height="900" fill="#ffffff"/>
+<rect x="16" y="16" width="1068" height="868" rx="0" fill="none" stroke="#204e8c" stroke-width="3"/>
+<rect x="28" y="28" width="1044" height="844" rx="0" fill="none" stroke="#204e8c" stroke-width="1"/>
+<text x="44" y="60" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="20" fill="#204e8c" text-anchor="start" font-weight="bold">数据采集柜 柜内布局图</text>
+<text x="44" y="82" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="12" fill="#555" text-anchor="start" font-weight="normal">柜体 400(W)×600(H)×200(D) mm  墙挂式 IP54  比例：非等比示意</text>
+<rect x="90" y="110" width="520" height="640" rx="4" fill="#f7f9fc" stroke="#1a1a1a" stroke-width="2.5"/>
+<text x="350.0" y="102" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="12" fill="#666" text-anchor="middle" font-weight="normal">柜门（含观察窗）</text>
+<rect x="98" y="118" width="504" height="70" rx="3" fill="#f0f4f9" stroke="#204e8c" stroke-width="1.2" stroke-dasharray="5 3"/>
+<text x="108" y="138" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="12" fill="#204e8c" text-anchor="start" font-weight="bold">柜顶走线区</text>
+<rect x="114" y="148" width="96" height="30" rx="3" fill="#fff" stroke="#c62828" stroke-width="1.4"/>
+<text x="162" y="168" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="11" fill="#c62828" text-anchor="middle" font-weight="normal">AC 进线</text>
+<rect x="232" y="148" width="96" height="30" rx="3" fill="#fff" stroke="#1565c0" stroke-width="1.4"/>
+<text x="280" y="168" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="11" fill="#1565c0" text-anchor="middle" font-weight="normal">信号</text>
+<rect x="350" y="148" width="96" height="30" rx="3" fill="#fff" stroke="#2e7d32" stroke-width="1.4"/>
+<text x="398" y="168" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="11" fill="#2e7d32" text-anchor="middle" font-weight="normal">通信</text>
+<rect x="468" y="148" width="96" height="30" rx="3" fill="#fff" stroke="#7cb342" stroke-width="1.4"/>
+<text x="516" y="168" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="11" fill="#7cb342" text-anchor="middle" font-weight="normal">接地</text>
+<text x="598" y="138" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="10" fill="#777" text-anchor="end" font-weight="normal">[PG7 防水接头]</text>
+<rect x="98" y="220" width="504" height="26" rx="2" fill="#b8bfc8" stroke="#8f979f" stroke-width="1"/>
+<text x="106" y="238" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="11.5" fill="#2b333c" text-anchor="start" font-weight="normal">DIN 导轨 A —— 电源区（强电）</text>
+<rect x="112" y="256" width="104" height="68" rx="3" fill="#e8eef7" stroke="#4a5a70" stroke-width="1.5"/><text x="164.0" y="277" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="13" fill="#12305c" text-anchor="middle" font-weight="bold">QF1</text><text x="164.0" y="294" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="11" fill="#333" text-anchor="middle" font-weight="normal">2P 空开</text><text x="164.0" y="309" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="10" fill="#666" text-anchor="middle" font-weight="normal">220VAC</text>
+<rect x="234" y="256" width="104" height="68" rx="3" fill="#e8eef7" stroke="#4a5a70" stroke-width="1.5"/><text x="286.0" y="277" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="13" fill="#12305c" text-anchor="middle" font-weight="bold">FU1</text><text x="286.0" y="294" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="11" fill="#333" text-anchor="middle" font-weight="normal">熔断器</text><text x="286.0" y="309" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="10" fill="#666" text-anchor="middle" font-weight="normal">2A</text>
+<rect x="356" y="256" width="104" height="68" rx="3" fill="#e8eef7" stroke="#4a5a70" stroke-width="1.5"/><text x="408.0" y="277" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="13" fill="#12305c" text-anchor="middle" font-weight="bold">PSU-24V</text><text x="408.0" y="294" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="11" fill="#333" text-anchor="middle" font-weight="normal">开关电源</text><text x="408.0" y="309" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="10" fill="#666" text-anchor="middle" font-weight="normal">24V / 1A</text>
+<rect x="478" y="256" width="104" height="68" rx="3" fill="#e8eef7" stroke="#4a5a70" stroke-width="1.5"/><text x="530.0" y="277" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="13" fill="#12305c" text-anchor="middle" font-weight="bold">PSU-5V</text><text x="530.0" y="294" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="11" fill="#333" text-anchor="middle" font-weight="normal">开关电源</text><text x="530.0" y="309" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="10" fill="#666" text-anchor="middle" font-weight="normal">5V / 2A</text>
+<rect x="98" y="336" width="504" height="20" rx="2" fill="#eef2f6" stroke="#aeb6bf" stroke-width="1" stroke-dasharray="4 3"/>
+<text x="350.0" y="350" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="10" fill="#6b7480" text-anchor="middle" font-weight="normal">走线槽 A（强弱电分侧）</text>
+<rect x="98" y="370" width="504" height="26" rx="2" fill="#b8bfc8" stroke="#8f979f" stroke-width="1"/>
+<text x="106" y="388" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="11.5" fill="#2b333c" text-anchor="start" font-weight="normal">DIN 导轨 B —— 控制区（弱电）</text>
+<rect x="108" y="406" width="88" height="66" rx="3" fill="#e8eef7" stroke="#4a5a70" stroke-width="1.5"/><text x="152.0" y="427" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="13" fill="#12305c" text-anchor="middle" font-weight="bold">STM32</text><text x="152.0" y="444" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="11" fill="#333" text-anchor="middle" font-weight="normal">采集主板</text><text x="152.0" y="459" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="10" fill="#666" text-anchor="middle" font-weight="normal">F103C8T6</text>
+<rect x="208" y="406" width="88" height="66" rx="3" fill="#e8eef7" stroke="#4a5a70" stroke-width="1.5"/><text x="252.0" y="427" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="13" fill="#12305c" text-anchor="middle" font-weight="bold">ESP8266</text><text x="252.0" y="444" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="11" fill="#333" text-anchor="middle" font-weight="normal">通信模块</text><text x="252.0" y="459" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="10" fill="#666" text-anchor="middle" font-weight="normal">ESP-01S</text>
+<rect x="308" y="406" width="88" height="66" rx="3" fill="#e8eef7" stroke="#4a5a70" stroke-width="1.5"/><text x="352.0" y="427" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="13" fill="#12305c" text-anchor="middle" font-weight="bold">KA1</text><text x="352.0" y="444" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="11" fill="#333" text-anchor="middle" font-weight="normal">继电器 1</text><text x="352.0" y="459" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="10" fill="#666" text-anchor="middle" font-weight="normal">报警声</text>
+<rect x="408" y="406" width="88" height="66" rx="3" fill="#e8eef7" stroke="#4a5a70" stroke-width="1.5"/><text x="452.0" y="427" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="13" fill="#12305c" text-anchor="middle" font-weight="bold">KA2</text><text x="452.0" y="444" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="11" fill="#333" text-anchor="middle" font-weight="normal">继电器 2</text><text x="452.0" y="459" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="10" fill="#666" text-anchor="middle" font-weight="normal">联锁切</text>
+<rect x="508" y="406" width="88" height="66" rx="3" fill="#e8eef7" stroke="#4a5a70" stroke-width="1.5"/><text x="552.0" y="427" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="13" fill="#12305c" text-anchor="middle" font-weight="bold">K1</text><text x="552.0" y="444" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="11" fill="#333" text-anchor="middle" font-weight="normal">安全继电器</text><text x="552.0" y="459" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="10" fill="#666" text-anchor="middle" font-weight="normal">急停</text>
+<rect x="98" y="498" width="504" height="26" rx="2" fill="#b8bfc8" stroke="#8f979f" stroke-width="1"/>
+<text x="106" y="516" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="11.5" fill="#2b333c" text-anchor="start" font-weight="normal">DIN 导轨 C —— 端子区</text>
+<rect x="112" y="532" width="104" height="52" rx="3" fill="#e8eef7" stroke="#4a5a70" stroke-width="1.5"/><text x="164.0" y="553" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="13" fill="#12305c" text-anchor="middle" font-weight="bold">X1</text><text x="164.0" y="570" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="11" fill="#333" text-anchor="middle" font-weight="normal">AC 端子</text>
+<rect x="234" y="532" width="104" height="52" rx="3" fill="#e8eef7" stroke="#4a5a70" stroke-width="1.5"/><text x="286.0" y="553" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="13" fill="#12305c" text-anchor="middle" font-weight="bold">X2</text><text x="286.0" y="570" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="11" fill="#333" text-anchor="middle" font-weight="normal">信号端子</text>
+<rect x="356" y="532" width="104" height="52" rx="3" fill="#e8eef7" stroke="#4a5a70" stroke-width="1.5"/><text x="408.0" y="553" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="13" fill="#12305c" text-anchor="middle" font-weight="bold">X3</text><text x="408.0" y="570" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="11" fill="#333" text-anchor="middle" font-weight="normal">通信端子</text>
+<rect x="478" y="532" width="104" height="52" rx="3" fill="#e8eef7" stroke="#4a5a70" stroke-width="1.5"/><text x="530.0" y="553" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="13" fill="#12305c" text-anchor="middle" font-weight="bold">PE</text><text x="530.0" y="570" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="11" fill="#333" text-anchor="middle" font-weight="normal">接地排</text>
+<line x1="112" y1="602" x2="588" y2="602" stroke="#7cb342" stroke-width="3"/>
+<text x="116" y="620" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="11" fill="#33691e" text-anchor="start" font-weight="normal">PE 接地母排（黄绿 4mm²，接地电阻 ≤4Ω）</text>
+<rect x="650" y="110" width="400" height="300" rx="3" fill="#fbfcfe" stroke="#204e8c" stroke-width="1.4"/>
+<text x="664" y="136" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="14" fill="#204e8c" text-anchor="start" font-weight="bold">布局要点</text>
+<text x="664" y="164" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="11.5" fill="#444" text-anchor="start" font-weight="normal">强弱电分侧走线：AC 进线与信号线分左右两侧进柜，</text>
+<text x="664" y="194" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="11.5" fill="#444" text-anchor="start" font-weight="normal">   交叉处垂直交叉，降低共模干扰。</text>
+<text x="664" y="224" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="11.5" fill="#444" text-anchor="start" font-weight="normal">开关电源分压：24V 供继电器/报警，5V/3.3V 供 MCU 与传感器，</text>
+<text x="664" y="254" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="11.5" fill="#444" text-anchor="start" font-weight="normal">   模拟量与数字量各自回到端子区。</text>
+<text x="664" y="284" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="11.5" fill="#444" text-anchor="start" font-weight="normal">继电器隔离：KA1 报警声、KA2 联锁切换、K1 安全急停，</text>
+<text x="664" y="314" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="11.5" fill="#444" text-anchor="start" font-weight="normal">   强电负载经继电器触点，不直接由 MCU 驱动。</text>
+<text x="664" y="344" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="11.5" fill="#444" text-anchor="start" font-weight="normal">接地：柜体 PE 母排单点接地，屏蔽层单端接地。</text>
+<text x="664" y="374" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="11.5" fill="#444" text-anchor="start" font-weight="normal">散热：柜顶留通风间隙，柜内温升不影响 DHT11 测温。</text>
+<rect x="650" y="430" width="400" height="320" rx="3" fill="#fbfcfe" stroke="#204e8c" stroke-width="1.4"/>
+<text x="664" y="456" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="14" fill="#204e8c" text-anchor="start" font-weight="bold">主要元件与接口</text>
+<rect x="660" y="461" width="380" height="24" rx="0" fill="#eef3fa" stroke="none" stroke-width="0"/>
+<text x="670" y="478" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="11.5" fill="#204e8c" text-anchor="start" font-weight="bold">位号</text>
+<text x="760" y="478" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="11.5" fill="#204e8c" text-anchor="start" font-weight="bold">元件</text>
+<text x="860" y="478" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="11.5" fill="#204e8c" text-anchor="start" font-weight="bold">规格/接口</text>
+<text x="670" y="505" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="11.5" fill="#1a1a1a" text-anchor="start" font-weight="normal">STM32</text>
+<text x="760" y="505" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="11.5" fill="#1a1a1a" text-anchor="start" font-weight="normal">主控</text>
+<text x="860" y="505" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="11.5" fill="#555" text-anchor="start" font-weight="normal">F103C8T6 / ADC×3 / I2C</text>
+<text x="670" y="532" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="11.5" fill="#1a1a1a" text-anchor="start" font-weight="normal">ESP8266</text>
+<text x="760" y="532" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="11.5" fill="#1a1a1a" text-anchor="start" font-weight="normal">WiFi 模块</text>
+<text x="860" y="532" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="11.5" fill="#555" text-anchor="start" font-weight="normal">ESP-01S / AT 固件 / MQTT</text>
+<text x="670" y="559" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="11.5" fill="#1a1a1a" text-anchor="start" font-weight="normal">DHT11</text>
+<text x="760" y="559" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="11.5" fill="#1a1a1a" text-anchor="start" font-weight="normal">温湿度</text>
+<text x="860" y="559" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="11.5" fill="#555" text-anchor="start" font-weight="normal">单总线 3.3V</text>
+<text x="670" y="586" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="11.5" fill="#1a1a1a" text-anchor="start" font-weight="normal">ACS712</text>
+<text x="760" y="586" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="11.5" fill="#1a1a1a" text-anchor="start" font-weight="normal">电流互感</text>
+<text x="860" y="586" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="11.5" fill="#555" text-anchor="start" font-weight="normal">20A / 模拟输出→ADC</text>
+<text x="670" y="613" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="11.5" fill="#1a1a1a" text-anchor="start" font-weight="normal">分压网络</text>
+<text x="760" y="613" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="11.5" fill="#1a1a1a" text-anchor="start" font-weight="normal">电压采集</text>
+<text x="860" y="613" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="11.5" fill="#555" text-anchor="start" font-weight="normal">0~30V DC → ADC</text>
+<text x="670" y="640" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="11.5" fill="#1a1a1a" text-anchor="start" font-weight="normal">OLED</text>
+<text x="760" y="640" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="11.5" fill="#1a1a1a" text-anchor="start" font-weight="normal">显示</text>
+<text x="860" y="640" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="11.5" fill="#555" text-anchor="start" font-weight="normal">SSD1306 / I2C</text>
+<text x="670" y="667" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="11.5" fill="#1a1a1a" text-anchor="start" font-weight="normal">KA1/KA2/K1</text>
+<text x="760" y="667" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="11.5" fill="#1a1a1a" text-anchor="start" font-weight="normal">继电器</text>
+<text x="860" y="667" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="11.5" fill="#555" text-anchor="start" font-weight="normal">报警/联锁/急停</text>
+<text x="670" y="694" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="11.5" fill="#1a1a1a" text-anchor="start" font-weight="normal">PSU</text>
+<text x="760" y="694" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="11.5" fill="#1a1a1a" text-anchor="start" font-weight="normal">开关电源</text>
+<text x="860" y="694" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="11.5" fill="#555" text-anchor="start" font-weight="normal">220VAC → 24V &amp; 5V</text>
+<rect x="660" y="764" width="400" height="96" rx="0" fill="#eef3fa" stroke="#204e8c" stroke-width="2"/>
+<line x1="660" y1="796" x2="1060" y2="796" stroke="#204e8c" stroke-width="1"/>
+<line x1="660" y1="828" x2="1060" y2="828" stroke="#204e8c" stroke-width="1"/>
+<text x="672" y="786" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="14" fill="#204e8c" text-anchor="start" font-weight="bold">数据采集柜布局图</text>
+<text x="672" y="818" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="12" fill="#1a1a1a" text-anchor="start" font-weight="normal">版本 V1.2</text>
+<text x="810" y="818" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="12" fill="#1a1a1a" text-anchor="start" font-weight="normal">2026-08-22</text>
+<text x="672" y="850" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="12" fill="#1a1a1a" text-anchor="start" font-weight="normal">制图：李安</text>
+<text x="810" y="850" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="12" fill="#555" text-anchor="start" font-weight="normal">比例：非等比示意</text>
+<text x="44" y="846" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="10.5" fill="#666" text-anchor="start" font-weight="normal">说明：本图为按文本字符画拓扑渲染的 SVG 布局图（非 AutoCAD 出图）；柜体尺寸、导轨分区、元件位号与 txt 版一致。</text>
+</svg>
